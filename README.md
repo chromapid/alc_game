@@ -1,2 +1,2 @@
 # alc_game
-Welcom to Rust Bible Study!
+Welcome to Rust Bible Study!
